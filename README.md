@@ -99,8 +99,11 @@ Open the URL in your browser to see the live app.
 **📸 Screenshots**
 Screenshot	Description
 ✅ GitHub Actions CI/CD pipeline
+
 ✅ Docker image on Docker Hub
+
 ✅ App running via Minikube
+
 
 ## Test Script
 npm test
